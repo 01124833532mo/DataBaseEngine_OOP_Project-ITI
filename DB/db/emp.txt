@@ -1,0 +1,4 @@
+3
+name STRING
+age INT
+salary INT
